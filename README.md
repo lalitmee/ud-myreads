@@ -23,8 +23,7 @@ These steps will start your application on the port [localhost:3000](http://loca
 ### Built With
 
 - [npm](https://www.npmjs.com/)
-- [Node](https://nodejs.org/en/)
 - [Create React App](https://github.com/facebookincubator/create-react-app)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Node](https://nodejs.org/en/)
 - [Git](https://git-scm.com/)
-- [Github](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
