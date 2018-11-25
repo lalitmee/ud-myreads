@@ -1,6 +1,6 @@
 # ud-myreads
 
-This is the repository that contains the code for Udacity MyReads app. This app is built as the out of class project for Udacity's Frontend nanodegree program.
+This is the repository that contains the code for Udacity MyReads app. This app is built as the out of class project for Udacity's Frontend Web Developer nanodegree program.
 
 ### Table of Contents
 
