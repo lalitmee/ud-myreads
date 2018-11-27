@@ -36,11 +36,14 @@ class Search extends Component {
             authors: book.authors,
             title: book.title,
             imageLinks: {
-              thumbnail: book.imageLinks.thumbnail
+              thumbnail: book.imageLinks ? book.imageLinks.thumbnail : ''
             }
           };
         });
         this.setState({ books });
+      }
+      else {
+      this.setState({ books: [] })
       }
     });
   };

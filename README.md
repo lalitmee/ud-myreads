@@ -5,6 +5,7 @@ This is the repository that contains the code for Udacity MyReads app. This app 
 ### Table of Contents
 
 - [Installing and Running](#installing-and-running)
+- [What and Why](#what-and-why)
 - [Built With](#built-with)
 
 ### Installing and Running
@@ -19,6 +20,12 @@ npm start
 ```
 
 These steps will start your application on the port [localhost:3000](http://localhost:3000/) where you can play with the app.
+
+### What and Why
+
+This is an application like Goodreads. Sorry for not making that much highly effective but it will do the things like you can track the books which
+you are reading, read and want to read. You can also search for the books which I have included in my database. Sorry for that too. I can't handle that
+much database like goodreads.
 
 ### Built With
 
