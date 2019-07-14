@@ -5,14 +5,14 @@
   "homepage": "http://lalitmee.github.io/ud-myreads",
   "devDependencies": {
     "gh-pages": "^2.0.1",
-    "react-scripts": "1.0.10"
+    "react-scripts": "3.0.1"
   },
   "dependencies": {
-    "escape-string-regexp": "^1.0.5",
-    "prop-types": "^15.5.10",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-router-dom": "^4.1.1",
+    "escape-string-regexp": "^2.0.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
     "sort-by": "^1.2.0"
   },
   "scripts": {
